@@ -5,9 +5,8 @@ This is an organisation for my samsung devices. i am currently maintaining samsu
 Status:
 ===========
 ```bash
-A13: LineageOS booting
+A13: boots (use -13 branch)
 A14: wip
-Note: A13 LineageOS is the only rom booting for now. we did evo but unfortunately it requires more amont of work to boot.
 ```
 Local Manifests
 ===========
