@@ -1,23 +1,25 @@
 Hey There!
 ===========
-This is an organisation for my samsung devices. i am currently maintaining samsung galaxy m30s (m307f) will may maintain other devices i have soon.
+This is an organization for my Samsung devices. I am currently maintaining Samsung Galaxy M30s (m307f) and may maintain other devices I have soon.
 
 Status:
 ===========
 ```bash
-A13: boots (use -13 branch)
-A14: boots
+Trees: A14 QPR2
+kernel: 4.14.440 
 ```
 Local Manifests
 ===========
-# tiramisu #
-----------------
-```bash
-   git clone https://github.com/sundrams-playground/local_manifests.git -b tiramisu .repo/local_manifests
-```
-  
-# upside down cake # 
+
+# UDC # 
 ----------------
 ```bash
   git clone https://github.com/sundrams-playground/local_manifests.git -b udc .repo/local_manifests
 ```
+
+# Tiramisu #
+----------------
+```bash
+   git clone https://github.com/sundrams-playground/local_manifests.git -b tiramisu .repo/local_manifests
+```
+
