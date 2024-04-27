@@ -6,7 +6,7 @@ Status:
 ===========
 ```bash
 Trees: A14 QPR2
-kernel: 4.14.440 
+kernel: 4.14.240 
 ```
 Local Manifests
 ===========
