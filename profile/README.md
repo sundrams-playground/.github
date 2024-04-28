@@ -1,6 +1,6 @@
 Hey There!
 ===========
-This is an organization for my Samsung devices. I am currently maintaining Samsung Galaxy M30s (m307f) and may maintain other devices I have soon.
+This Organisation is aimed for the development of Android devices 
 
 Devices:
 ===========
