@@ -4,10 +4,11 @@ This is an organization for my Samsung devices. I am currently maintaining Samsu
 
 Status:
 ===========
-```bash
-Trees: A14 QPR2
-kernel: 4.14.240 
-```
+
+### Samsung Galaxy M30s
+- M307F
+- M307FN
+
 Local Manifests
 ===========
 
