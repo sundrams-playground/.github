@@ -10,13 +10,13 @@ Devices:
 - M307FN
 
 ### Status
-- M30s: Android 14 QPR2 (4.14.250)
+- M30s: Android 15 QPR1 (4.14.223)
 
 Local Manifest
 ===========
 ----------------
 ```bash
-  git clone https://github.com/sundrams-playground/local_manifests.git -b udc .repo/local_manifests
+  git clone https://github.com/sundrams-playground/local_manifests.git -b Veronica .repo/local_manifests
 ```
 
 
