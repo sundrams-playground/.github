@@ -1,22 +1,13 @@
-Hey There!
+⚡ About this organization
 ===========
-This Organisation is aimed for the development of Android devices 
+Here i do the development of Android Phone that i own or owned
 
 Devices:
 ===========
 
-### Samsung Galaxy M30s
-- M307F
-- M307FN
+### >Samsung Galaxy M30s
+### >Redmi Note 6 Pro
+### >Motorola Moto G34 5G
 
 ### Status
 - M30s: Android 15 QPR1 (4.14.223)
-
-Local Manifest
-===========
-----------------
-```bash
-  git clone https://github.com/sundrams-playground/local_manifests.git -b Veronica .repo/local_manifests
-```
-
-
