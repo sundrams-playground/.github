@@ -1,6 +1,6 @@
 ⚡ About this organization
 ===========
-Here i do the development of Android Phone that i own or owned
+Here i do the development of Android Phone that i own or owned!
 
 Devices:
 ===========
